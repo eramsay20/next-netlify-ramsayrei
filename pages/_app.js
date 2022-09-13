@@ -1,5 +1,5 @@
 import '@styles/globals.css'
-// test commit
+// test commit 2
 
 function Application({ Component, pageProps }) {
   return <Component {...pageProps} />
